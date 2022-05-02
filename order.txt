@@ -1,0 +1,22 @@
+Order 74
+burger of the day
+	add cheese
+burger of the day
+burger of the day
+drink
+beer
+salad
+beer
+salad
+burger
+	remove Mustard
+	add egg
+beer
+beer
+burger
+salad
+fries
+burger of the day
+burger of the day
+	add cheese
+fries
